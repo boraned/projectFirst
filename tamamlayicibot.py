@@ -32,9 +32,9 @@ async def on_ready():
 client.deleteToggle: bool = True
 
 
-niCuss = ["sikeyim.", "sikerim.","yerden yere vurayım.", "yerden yere vurarım.","öldürürüm.", "havaya uçurarak sikeyim.", "patlatayım.", "patlatırım.","tokatlıyım."]
-inaCuss = ["kafa atayım.", "attırayım.", "çakayım."]
-inCuss = ["amına koyim.", "amına korum.","anasını sikeyim.", "anasını sikerim.", "götünü deleyim.", "ağzını yüzünü dağıtayım."]
+niCuss = ["KUFURLERIN"]
+inaCuss = ["KUFURLERIN"]
+inCuss = ["KUFURLERIN"]
 
 
 
