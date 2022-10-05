@@ -168,11 +168,5 @@ async def sik(ctx, message: int):
         time.sleep(.1) 
         await ctx.send(f"{message} mesaj sikildi.")
 
-client.run("OTA4MDQ3Njc2MTY2MjU4NzI5.Go86Yi.1Dr0cSUTtZjY6i9sNCBQsr9wLCnbOnEt3FwQw8")
-
-#Rich Presence hallet
-
-# !yardim daki komutlarin hepsini acikla, i'leri ı'ya cevir 
-
-#Botu her zaman acik tutma isini hallet, https://www.youtube.com/watch?v=SPTfmiYiuok&t=1067s 1:03:00
+client.run("YOUR TOKEN")
 
